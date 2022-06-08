@@ -5,4 +5,3 @@
 - Baggio Giacomo
 - Del Negro Riccardo
 - Gaye Saliou
-- Tollon Devis
