@@ -15,7 +15,7 @@ Per questo motivo l’amministratore delegato (CEO) e il direttore tecnico (CTO)
 una società di consulenza.
 
 ## ✔️ Todos
-- [] Pagina login clienti e area personale
-- [] API acquisizione dati bracciali
-- [] Simulatore dati bracciale
-- [] Pagina amministratore di sistema
+- [ ] Pagina login clienti e area personale
+- [ ] API acquisizione dati bracciali
+- [ ] Simulatore dati bracciale
+- [ ] Pagina amministratore di sistema
